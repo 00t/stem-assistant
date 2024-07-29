@@ -1,0 +1,6 @@
+Flask==2.2.2
+tensorflow==2.13.0
+keras==2.13.1
+opencv-python-headless==4.8.0.74
+numpy==1.24.2
+gradio==3.16.2p
